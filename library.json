@@ -1,0 +1,13 @@
+{
+  "name": "LS7366R_Counter",
+  "version": "1.0.0",
+  "description": "LS7366R_Counter library adopted for Arduino from mikroe mikrosdk_click_v2 counter library",
+  "keywords": [
+    "Mikroe",
+    "Counter",
+    "Encoder",
+    "LS7366R"
+  ],
+  "frameworks": "*",
+  "platforms": "*"
+}
