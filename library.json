@@ -8,6 +8,12 @@
     "Encoder",
     "LS7366R"
   ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Ewoodss/LS7366R_Counter"
+  },
+
   "frameworks": "*",
   "platforms": "*"
 }
